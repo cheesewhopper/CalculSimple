@@ -61,5 +61,10 @@ namespace WinCalcul
         {
 
         }
+
+        private void Calculator_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
