@@ -1,0 +1,17 @@
+C:\Users\lcg80\source\repos\WinCalcul\WinCalcul\bin\Debug\net6.0-windows\WinCalcul.exe
+C:\Users\lcg80\source\repos\WinCalcul\WinCalcul\bin\Debug\net6.0-windows\WinCalcul.deps.json
+C:\Users\lcg80\source\repos\WinCalcul\WinCalcul\bin\Debug\net6.0-windows\WinCalcul.runtimeconfig.json
+C:\Users\lcg80\source\repos\WinCalcul\WinCalcul\bin\Debug\net6.0-windows\WinCalcul.dll
+C:\Users\lcg80\source\repos\WinCalcul\WinCalcul\bin\Debug\net6.0-windows\WinCalcul.pdb
+C:\Users\lcg80\source\repos\WinCalcul\WinCalcul\obj\Debug\net6.0-windows\WinCalcul.csproj.AssemblyReference.cache
+C:\Users\lcg80\source\repos\WinCalcul\WinCalcul\obj\Debug\net6.0-windows\WinCalcul.Calculator.resources
+C:\Users\lcg80\source\repos\WinCalcul\WinCalcul\obj\Debug\net6.0-windows\WinCalcul.csproj.GenerateResource.cache
+C:\Users\lcg80\source\repos\WinCalcul\WinCalcul\obj\Debug\net6.0-windows\WinCalcul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcg80\source\repos\WinCalcul\WinCalcul\obj\Debug\net6.0-windows\WinCalcul.AssemblyInfoInputs.cache
+C:\Users\lcg80\source\repos\WinCalcul\WinCalcul\obj\Debug\net6.0-windows\WinCalcul.AssemblyInfo.cs
+C:\Users\lcg80\source\repos\WinCalcul\WinCalcul\obj\Debug\net6.0-windows\WinCalcul.csproj.CoreCompileInputs.cache
+C:\Users\lcg80\source\repos\WinCalcul\WinCalcul\obj\Debug\net6.0-windows\WinCalcul.dll
+C:\Users\lcg80\source\repos\WinCalcul\WinCalcul\obj\Debug\net6.0-windows\refint\WinCalcul.dll
+C:\Users\lcg80\source\repos\WinCalcul\WinCalcul\obj\Debug\net6.0-windows\WinCalcul.pdb
+C:\Users\lcg80\source\repos\WinCalcul\WinCalcul\obj\Debug\net6.0-windows\WinCalcul.genruntimeconfig.cache
+C:\Users\lcg80\source\repos\WinCalcul\WinCalcul\obj\Debug\net6.0-windows\ref\WinCalcul.dll
