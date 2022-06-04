@@ -53,8 +53,8 @@ namespace WinCalcul
 
         public int Sub(int number1, int number2)
         {
-        int sub = number1 - number2;
-        return sub;
+            int sub = number1 - number2;
+            return sub;
         }
 
         private void Sum1_TextChanged(object sender, EventArgs e)
